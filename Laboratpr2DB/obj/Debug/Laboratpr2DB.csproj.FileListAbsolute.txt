@@ -1,0 +1,9 @@
+D:\Laboratpr2DB\Laboratpr2DB\bin\Debug\Laboratpr2DB.exe.config
+D:\Laboratpr2DB\Laboratpr2DB\bin\Debug\Laboratpr2DB.exe
+D:\Laboratpr2DB\Laboratpr2DB\bin\Debug\Laboratpr2DB.pdb
+D:\Laboratpr2DB\Laboratpr2DB\obj\Debug\Laboratpr2DB.csprojResolveAssemblyReference.cache
+D:\Laboratpr2DB\Laboratpr2DB\obj\Debug\Laboratpr2DB.Form1.resources
+D:\Laboratpr2DB\Laboratpr2DB\obj\Debug\Laboratpr2DB.Properties.Resources.resources
+D:\Laboratpr2DB\Laboratpr2DB\obj\Debug\Laboratpr2DB.csproj.GenerateResource.Cache
+D:\Laboratpr2DB\Laboratpr2DB\obj\Debug\Laboratpr2DB.exe
+D:\Laboratpr2DB\Laboratpr2DB\obj\Debug\Laboratpr2DB.pdb
